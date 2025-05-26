@@ -33,11 +33,6 @@ Architecting thought leadership that positions founders and executives as indust
 ### 05. eCommerce & DTC Copy
 Crafting conversion-focused product narratives that transform features into emotional benefits. Expertise in product descriptions, email sequences, and landing pages that drive revenue.
 
-## 📈 GitHub Stats
-
-[![Touhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid&show_icons=true&theme=radical)](https://github.com/touhid-120/touhid-120)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid&layout=compact&theme=radical)](https://github.com/touhid-120/touhid-120)
 
 ## 📂 Featured Projects
 
