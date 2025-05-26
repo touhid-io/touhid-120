@@ -1,4 +1,4 @@
-# 👋 I’m Tawhid — Strategic Content Architect for the Disruptive Class
+# 👋 I’m Touhid — Strategic Content Architect for the Disruptive Class
 
 You don’t need *just another writer* — you need a mind engineered for **impact, psychology, and influence**. I write content that doesn't just inform... it converts, it scales, it dominates.
 
