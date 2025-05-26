@@ -2,7 +2,7 @@
 
 > Crafting narrative precision for founders, visionaries & high-leverage brands.
 
-[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/touhid) 
+[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]](https://www.upwork.com/freelancers/~01bda1b9cf83cd3f1c?mp_source=share)
 
 ## 🧠 Content Architecture, Not Just Words
 
