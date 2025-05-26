@@ -2,9 +2,7 @@
 
 > Crafting narrative precision for founders, visionaries & high-leverage brands.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/touhid) 
 [![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/touhid) 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:touhid@email.com)
 
 ## 🧠 Content Architecture, Not Just Words
 
