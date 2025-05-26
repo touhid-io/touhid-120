@@ -43,7 +43,7 @@ Crafting conversion-focused product narratives that transform features into emot
 
 ## 🔗 Connect With Me
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/touhid)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bda1b9cf83cd3f1c?mp_source=share)
 
 ---
 
