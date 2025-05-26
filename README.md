@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" width="30px"> Touhid | Strategic Content Architect
+# <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" width="30px"> Touhidul Islam | Strategic Content Architect
 
 > Crafting narrative precision for founders, visionaries & high-leverage brands.
 
-[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)]](https://www.upwork.com/freelancers/~01bda1b9cf83cd3f1c?mp_source=share)
+[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bda1b9cf83cd3f1c?mp_source=share)
 
 ## 🧠 Content Architecture, Not Just Words
 
@@ -35,13 +35,20 @@ Crafting conversion-focused product narratives that transform features into emot
 
 ## 📈 GitHub Stats
 
-[![Touhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid&show_icons=true&theme=radical)](https://github.com/touhid)
+[![Touhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid&show_icons=true&theme=radical)](https://github.com/touhid-120/touhid-120)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid&layout=compact&theme=radical)](https://github.com/touhid)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=touhid&layout=compact&theme=radical)](https://github.com/touhid-120/touhid-120)
+
+## 📂 Featured Projects
+
+[![Portfolio Showcase](https://github-readme-stats.vercel.app/api/pin/?username=touhid&repo=Portfolio-Showcase&theme=radical)](https://github.com/touhid/Portfolio-Showcase)
+[![Content Frameworks](https://github-readme-stats.vercel.app/api/pin/?username=touhid&repo=Content-Frameworks&theme=radical)](https://github.com/touhid/Content-Frameworks)
+[![Growth Case Studies](https://github-readme-stats.vercel.app/api/pin/?username=touhid&repo=Growth-Case-Studies&theme=radical)](https://github.com/touhid/Growth-Case-Studies)
+
 
 ## 🔗 Connect With Me
 
-[![Upwork] (https://www.upwork.com/freelancers/~01bda1b9cf83cd3f1c?mp_source=share)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/touhid)
 
 ---
 
