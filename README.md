@@ -1,8 +1,23 @@
-# <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" width="30px"> Touhidul Islam | Strategic Content Architect
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Touhid's+Profile;Strategic+Content+Architect;Narrative+Designer+for+Visionaries&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 
-> Crafting narrative precision for founders, visionaries & high-leverage brands.
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
 
-[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bda1b9cf83cd3f1c?mp_source=share)
+<h1 align="center">
+  Touhid | Strategic Content Architect
+</h1>
+
+<p align="center"><em>Crafting narrative precision for founders, visionaries & high-leverage brands</em></p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Not%20just%20a%20writer;Your%20strategic%20partner;Conversion%20specialist;Brand%20voice%20architect&font=Fira%20Code&center=true&width=440&height=45&color=6FDA44&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
 
 ## 🧠 Content Architecture, Not Just Words
 
@@ -33,18 +48,20 @@ Architecting thought leadership that positions founders and executives as indust
 ### 05. eCommerce & DTC Copy
 Crafting conversion-focused product narratives that transform features into emotional benefits. Expertise in product descriptions, email sequences, and landing pages that drive revenue.
 
+## 📈 GitHub Stats
+
+[![Touhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Touhid&show_icons=true&theme=radical)](https://github.com/touhid-120)
 
 ## 📂 Featured Projects
 
-[![Portfolio Showcase](https://github-readme-stats.vercel.app/api/pin/?username=touhid&repo=Portfolio-Showcase&theme=radical)](https://github.com/touhid/Portfolio-Showcase)
-[![Content Frameworks](https://github-readme-stats.vercel.app/api/pin/?username=touhid&repo=Content-Frameworks&theme=radical)](https://github.com/touhid/Content-Frameworks)
-[![Growth Case Studies](https://github-readme-stats.vercel.app/api/pin/?username=touhid&repo=Growth-Case-Studies&theme=radical)](https://github.com/touhid/Growth-Case-Studies)
+[![Portfolio Showcase](https://github-readme-stats.vercel.app/api/pin/?username=touhid-120&repo=Portfolio-Showcase&theme=radical)](https://github.com/touhid-120/Portfolio-Showcase)
 
 
 ## 🔗 Connect With Me
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01bda1b9cf83cd3f1c?mp_source=share)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/touhid)
 
 ---
 
 > "Words build worlds. The right content strategy doesn't just communicate—it transforms perception, drives action, and creates lasting value. I don't just write content; I architect the narrative foundation upon which remarkable businesses are built."
+
