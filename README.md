@@ -1,67 +1,87 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Profile;Strategic+Content+Architect;Narrative+Designer+for+Visionaries&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Touhid's+AI+Suite;Data+Ops+Engineer+%7C+Full-Stack+Web+Developer;Pythonic+Thinker+%7C+RAG+Chatbot+Architect&font=Fira%20Code&center=true&width=440&height=45&color=14b8a6&vCenter=true&size=22">
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="500">
 </p>
 
-<h1 align="center">
-  Touhid | Strategic Content Architect
-</h1>
-
-<p align="center"><em>Crafting narrative precision for founders, visionaries & high-leverage brands</em></p>
+<h1 align="center">Touhid — Data x AI x Full Stack</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Not%20just%20a%20writer;Your%20strategic%20partner;Conversion%20specialist;Brand%20voice%20architect&font=Fira%20Code&center=true&width=440&height=45&color=6FDA44&vCenter=true&pause=1000&size=22" />
+  <em>I engineer end-to-end data pipelines and intelligent interfaces powered by Python, ML, and modern web stacks.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/touhid-io">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scraper;Cleaner+%7C+Formatter;RAG+Architect;Vector+DB+Ops;AI+Chatbot+Builder&font=Fira+Code&center=true&width=440&height=45&color=facc15&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
+---
 
-## 🧠 Content Architecture, Not Just Words
+## ⚙️ Tech Stack
 
-I partner with forward-thinking brands and visionary founders to architect content strategies that drive measurable business outcomes. My approach fuses psychological frameworks, conversion principles, and narrative expertise to create content that doesn't just perform—it transforms.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998a?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-2b303a?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-45ba63?style=flat-square&logo=playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🎯 Core Capabilities
+---
 
-![Content Strategy](https://img.shields.io/badge/Content_Strategy-0A0A0A?style=flat-square&logo=notion&logoColor=white)
-![Brand Narrative](https://img.shields.io/badge/Brand_Narrative-1A73E8?style=flat-square&logo=bookstack&logoColor=white)
-![Conversion Copy](https://img.shields.io/badge/Conversion_Copy-2C2D72?style=flat-square&logo=convertkit&logoColor=white)
-![Thought Leadership](https://img.shields.io/badge/Thought_Leadership-000000?style=flat-square&logo=medium&logoColor=white)
-![SEO Optimization](https://img.shields.io/badge/SEO_Optimization-47A248?style=flat-square&logo=googlesearchconsole&logoColor=white)
+## 🧠 What I Build
 
-## 🚀 Strategic Verticals
+| Area | Description |
+|------|-------------|
+| **Web Scraping** | Enterprise-level scraping bots using Selenium, Playwright, and async tools |
+| **Data Cleaning & Formatting** | NLP-driven pipelines to transform raw HTML/MD into structured JSONL |
+| **Vector Embedding** | Convert structured data into vector DBs using OpenAI embeddings |
+| **RAG Chatbots** | FastAPI-based intelligent bots with semantic search & custom retrievers |
+| **ML Ops & Trading** | Machine learning systems for financial prediction and analytics |
+| **Full-Stack Web Apps** | Clean UIs + Python backend + automated CI/CD pipelines |
 
-### 01. SaaS & Product-Led Growth
-Translating complex features into compelling benefits that drive adoption and retention. Expertise in user onboarding sequences, feature announcements, and product storytelling that emphasizes value over technicalities.
+---
 
-### 02. Finance, Investment & FinTech
-Demystifying complex financial concepts without losing sophistication. Creating trust-building content for wealth management firms, investment platforms, and financial technology innovators.
+## 📦 Featured Modules
 
-### 03. AI, Web3 & Emerging Tech
-Bridging the gap between cutting-edge technology and practical application. Specializing in making the complex accessible without sacrificing technical integrity.
+- `rental_scrapper.py` → Firebase alerts, multi-threaded scraper, PostgreSQL-ready
+- `clean_data.py` → Tokenizer, de-linker, anti-spam logic
+- `format_data.py` → JSONL + metadata tagging from markdowns
+- `vectorize_data.py` → Embeds via OpenAI, stores as pickled vector DB
+- `universal_topic_collector.py` → Scrapy + Playwright powered crawler with de-duplication
+- `trading_bot.py` → ML model runner with backtest & risk controls
+- `create_report.py` → Converts structured JSONL into readable insights
 
-### 04. Personal Branding Ghostwriting
-Architecting thought leadership that positions founders and executives as industry authorities. Capturing authentic voice while elevating strategic positioning.
+---
 
-### 05. eCommerce & DTC Copy
-Crafting conversion-focused product narratives that transform features into emotional benefits. Expertise in product descriptions, email sequences, and landing pages that drive revenue.
+## 🚀 Demo Coming Soon
+
+⚠️ RAG-powered chatbot API & Streamlit dashboard deployment in progress.  
+Live links will be pinned here after Docker + Vercel/Render setup.
+
+---
 
 ## 📈 GitHub Stats
 
-[![Touhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Touhid&show_icons=true&theme=radical)](https://github.com/touhid-120)
+[![Touhid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=touhid-io&show_icons=true&theme=radical)](https://github.com/touhid-io)
 
-## 📂 Featured Projects
+---
 
-[![Portfolio Showcase](https://github-readme-stats.vercel.app/api/pin/?username=touhid-120&repo=Portfolio-Showcase&theme=radical)](https://github.com/touhid-120/Portfolio-Showcase)
+## 🛰 Connect With Me
 
-
-## 🔗 Connect With Me
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/touhidul-islam)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/touhid)
 
 ---
 
-> "Words build worlds. The right content strategy doesn't just communicate—it transforms perception, drives action, and creates lasting value. I don't just write content; I architect the narrative foundation upon which remarkable businesses are built."
+> “Code is no longer just syntax—it's a narrative.  
+> I don't just deploy functions, I deploy systems that think, adapt, and scale.”  
+> — Touhid, aka `touhid-io`
 
