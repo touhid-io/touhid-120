@@ -1,133 +1,122 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <img src="https://i.imgur.com/g712g5z.gif" alt="Code Banner" width="100%"/>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00B88B&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Touhidul+Islam+👋;I'm+an+AI+%26+Automation+Architect;I+build+intelligent+systems;...that+solve+real-world+problems." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B88B&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Touhidul+Islam+👋;I'm+an+AI+%26+Automation+Architect;I+build+intelligent+systems;...that+solve+real-world+problems." alt="Typing SVG" /></a>
 
 <p align="center">
-  <em>
-    A passionate AI Engineer from Bangladesh 🇧🇩 with a founder's mindset, dedicated to building autonomous systems that redefine efficiency. I believe in turning complex data into actionable intelligence and powerful SaaS solutions. Currently architecting the future of automated sales and knowledge management.
-  </em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-<hr>
-
-### 🚀 What I Do
-
-I build end-to-end intelligent systems. From scraping the web for raw data to deploying sophisticated AI models, I love working on the entire data lifecycle.
-
-- 🤖 **AI & Automation:** Architecting autonomous agents and AI-powered SaaS platforms.
-- 📈 **Data Science:** Extracting insights from complex datasets and building predictive models.
-- 🕸️ **Web Scraping & Data Engineering:** Creating robust data pipelines to fuel intelligent applications.
-- 💡 **Startup & Product:** Passionate about building products from scratch that solve real problems.
-
----
-
-### 💻 Tech Stack & Tools
-
-My toolbox is filled with modern technologies for building scalable and intelligent applications.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
-  <img src="https://img.shields.io/badge/Google%20Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  A passionate AI Engineer from Bangladesh 🇧🇩 with a founder's mindset, dedicated to building autonomous systems that redefine efficiency. I believe in turning complex data into actionable intelligence and powerful SaaS solutions. Currently architecting the future of automated sales and knowledge management.
 </p>
 
 ---
 
-### 🔥 My GitHub Stats & Trophies
+### 🚀 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  </a>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula&column=7" alt="GitHub Trophies" />
-  </a>
+<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
+<a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🌱 I'm Currently Working On...
-
-I'm deep into architecting **NexusLeads AI**, a fully autonomous sales agent. This project combines everything I love: advanced web scraping, large language models (LLMs) for personalization, and building a robust, scalable system. The goal is to create an AI that doesn't just send emails, but thinks and strategizes like a seasoned sales professional.
-
----
-
-### ✨ Featured Projects
+### 💻 My Tech Stack
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="[Link to your NexusLeads AI repo]">
-        <img src="[Icon/Image for this project]" width="100px;" alt="NexusLeads AI"/>
-        <br />
-        <sub><b>NexusLeads AI</b></sub>
-      </a>
-      <br />
-      An autonomous AI Sales Agent.
+    <td align="center" width="180">
+      <b align="center">Frontend</b><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </td>
-    <td align="center">
-      <a href="[Link to your RAG chatbot repo]">
-        <img src="[Icon/Image for this project]" width="100px;" alt="KnowledgeBase Bot"/>
-        <br />
-        <sub><b>RAG KnowledgeBase Bot</b></sub>
-      </a>
-      <br />
-      Upload docs, ask questions.
+    <td align="center" width="180">
+      <b align="center">Backend</b><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
     </td>
-    <td align="center">
-      <a href="[Link to another cool project]">
-        <img src="[Icon/Image for this project]" width="100px;" alt="Project 3"/>
-        <br />
-        <sub><b>[Another Project Name]</b></sub>
-      </a>
-      <br />
-      A short, cool description.
+    <td align="center" width="180">
+      <b align="center">AI/ML</b><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+      <img src="https://i.imgur.com/N4L4D0f.png" alt="Google AI" width="40" height="40"/>
+    </td>
+    <td align="center" width="180">
+      <b align="center">Databases</b><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </td>
+    <td align="center" width="180">
+      <b align="center">DevOps & Tools</b><br><br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📫 How to Reach Me
+### ✨ Featured Projects
 
-I'm always open to connecting with fellow developers, founders, and tech enthusiasts. Feel free to reach out!
+Here are some of the projects I'm proud of.
 
-- 💬 **Ask me about:** AI, SaaS, Automation, Python, Startups.
-- 📧 **Email:** youremail@example.com
-- 🔗 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username/)
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr valign="top">
+    <td width="50%">
+      <h3 align="center">🤖 NexusLeads AI</h3>
+      <p align="center">
+        <a href="[Link to your NexusLeads AI repo]">
+          <img src="https://i.imgur.com/3hM4UTI.png" alt="NexusLeads AI" width="100%">
+        </a>
+      </p>
+      <p>
+        An autonomous AI Sales Agent that discovers, analyzes, and engages potential customers using intelligent, personalized outreach. A true 24/7 sales powerhouse.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 RAG KnowledgeBase Bot</h3>
+      <p align="center">
+        <a href="[Link to your RAG chatbot repo]">
+          <img src="https://i.imgur.com/jI8y4fK.png" alt="KnowledgeBase Bot" width="100%">
+        </a>
+      </p>
+      <p>
+        A powerful RAG (Retrieval-Augmented Generation) based chatbot. Simply upload your documents (PDFs, Docs), and get instant, accurate answers from your own knowledge base.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔥 My GitHub Stats
 
 <p align="center">
-  Thanks for visiting!
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  </a>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/viewcount.gif" alt="View Count" />
 </p>
