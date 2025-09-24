@@ -1,22 +1,25 @@
-<!-- ====== Colorful Animated Header ====== -->
+<!-- ====== Colorful Premium Landing Page Style Header ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Data%20Automation%20%26%20AI%20Solutions%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="profile header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3a1c71,50:d76d77,100:ffaf7b&height=180&section=header&text=Data%20Automation%20%26%20AI%20Solutions%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="premium header"/>
 </p>
 
-<h3 align="center">"Bridging Technology and Business Through Intelligent Automation"</h3>
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #00d2ff, #3a7bd5); margin: 16px 0;" />
+<h2 align="center" style="font-weight: bold; background: linear-gradient(90deg,#ff7e5f,#feb47b); -webkit-background-clip: text; color: transparent;">
+"Bridging Technology and Business Through Intelligent Automation"
+</h2>
 
-## About Me
+---
+
+## 🌐 <span style="color:#ff7e5f;">About Me</span>
 I am an AI and business enthusiast, currently studying Business Administration (BBA).  
 My goal is to create a bridge between technology and business.  
 I believe that the right data and automation not only simplify a process but are also the main driving force behind defining business strategy and bringing revolutionary change.
 
 ---
 
-## What I Do
+## ⚡ <span style="color:#d76d77;">What I Do</span>
 I automate your complex data processes and use them to build intelligent systems for your business.
 
-### How my solutions can help you:
+### 💡 <span style="color:#3a1c71;">How my solutions can help you:</span>
 - **Unlocking Your Data's Power**  
   Wasting time finding the right information from your internal knowledge base or documents?  
   I can turn your data into a high-fidelity RAG (Retrieval-Augmented Generation) system.  
@@ -33,7 +36,7 @@ I automate your complex data processes and use them to build intelligent systems
 
 ---
 
-## Featured Project: n8n Workflow Automation Brain
+## 🚀 <span style="color:#ffaf7b;">Featured Project: n8n Workflow Automation Brain</span>
 A real-world example of a complete RAG (Retrieval-Augmented Generation) pipeline:
 
 - **Intelligence Layer:** Collects relevant information from thousands of online documents  
@@ -43,7 +46,7 @@ A real-world example of a complete RAG (Retrieval-Augmented Generation) pipeline
 
 ---
 
-## My Toolkit
+## 🛠 <span style="color:#6a11cb;">My Toolkit</span>
 
 **Programming Languages**  
 Python • JavaScript • SQL • Bash  
@@ -62,23 +65,27 @@ Git • Docker • Linux
 
 ---
 
-## Current Focus
+## 🎯 <span style="color:#f7971e;">Current Focus</span>
 - **Building:** Next-generation RAG systems for enterprise knowledge management  
 - **Learning:** Advanced LLM fine-tuning and multi-modal AI applications  
 - **Expertise:** Data Automation • RAG Systems • Business Intelligence • Market Analysis  
 
 ---
 
-## Let’s Collaborate
+## 🤝 <span style="color:#00c6ff;">Let's Collaborate</span>
 If you have an idea or a challenge where data and automation can bring about a revolutionary change, let's have a discussion.  
 
-_"Together, we can create an effective solution to take your business to the next level."_
+*"Together, we can create an effective solution to take your business to the next level."*
 
 ---
 
-<p align="center">
-  <b>Building the future, one automation at a time</b><br>
+<p align="center" style="font-weight:bold; font-size:18px; background: linear-gradient(90deg,#36d1dc,#5b86e5); -webkit-background-clip:text; color:transparent;">
+  Building the future, one automation at a time  
+  <br>
   If you find my work valuable, consider giving it a ⭐
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(90deg, #3a7bd5, #00d2ff); margin: 16px 0;" />
+<!-- ====== Premium Animated Footer ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=100&section=footer&animation=fadeIn" />
+</p>
