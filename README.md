@@ -1,141 +1,89 @@
-<div align="center">
+<!-- Premium Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=120&section=header&text=Data%20Automation%20%26%20AI%20Solutions%20Developer&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header"/>
+</p>
 
-# 🚀 Data Automation & AI Solutions Developer  
-## *"Bridging Technology and Business Through Intelligent Automation"*  
-
-</div>
-
----
-
-### 📌 About Me  
-
-I am an **AI and Business enthusiast**, currently studying **Business Administration (BBA)**.  
-My goal is to **build a bridge between technology and business**.  
-
-I believe that the right **data and automation** not only simplifies processes, but also serves as the main driving force for **business strategy and groundbreaking transformation**.  
+<h3 align="center">"Bridging Technology and Business Through Intelligent Automation"</h3>
 
 ---
 
-## ⚡ What I Do  
-
-I **automate your complex data processes** and transform them into **intelligent systems for your business**.  
-
-I **automate your complex data processes** and transform them into **intelligent systems for your business**.  
-
-### Here’s how my solutions can help you:  
-
-#### 🔍 **Unlocking Your Data's Power**  
-Do you waste time searching for the right information from your internal knowledge base or documents?  
-I can transform your data into a **high-fidelity RAG (Retrieval-Augmented Generation) system**.  
-As a result, you or your team can find answers to any question in seconds.  
-
-#### 📊 **Automated Market Intelligence**  
-Is monitoring competitors still a manual job for you?  
-My **intelligent web extraction system** automatically tracks competitors’ activities and delivers reports at scheduled times.  
-
-#### 🔗 **Complete Data Pipeline**  
-Do you have large volumes of data but it’s not ready for use?  
-I build a **fully automated pipeline** that collects data from various sources, cleans it with NLP, and prepares it for analysis.  
+## 📌 About Me
+I am an AI and business enthusiast, currently studying Business Administration (BBA).  
+My goal is to create a bridge between technology and business.  
+I believe that the right data and automation not only simplify a process but are also the main driving force behind defining business strategy and bringing revolutionary change.
 
 ---
 
-## 🌟 Featured Project: n8n Workflow Automation Brain  
+## ⚡ What I Do
+I automate your complex data processes and use them to build intelligent systems for your business.
 
-A complete real-world example of a **RAG (Retrieval-Augmented Generation) pipeline**:  
+### How my solutions can help you:
+- **Unlocking Your Data's Power**  
+  Wasting time finding the right information from your internal knowledge base or documents?  
+  I can turn your data into a high-fidelity RAG (Retrieval-Augmented Generation) system.  
+  As a result, you or your team can find answers to any question in an instant.
+
+- **Automated Market Intelligence**  
+  Is keeping an eye on your competitors a manual task?  
+  My custom-built intelligent web extraction system automatically tracks competitors' activities.  
+  You will receive direct reports at specified times.
+
+- **Complete Data Pipeline**  
+  Have a lot of data but it's not ready for use?  
+  I build a complete automated pipeline that collects data from various sources, cleans it using NLP, and prepares it for analysis.
+
+---
+
+## 🚀 Featured Project: n8n Workflow Automation Brain
+A real-world example of a complete RAG (Retrieval-Augmented Generation) pipeline:
 
 - **Intelligence Layer:** Collects relevant information from thousands of online documents  
-- **Processing Pipeline:** Cleans data and builds a vectorized knowledge base  
-- **Real-time Response:** Delivers accurate answers to any automation-related query  
-- **Platform:** Built as an intelligent assistant for the **n8n automation platform**  
+- **Processing Pipeline:** Cleans data and creates a vectorized knowledge base  
+- **Real-time Response:** Accurate answers to any automation-related questions  
+- **Platform:** An intelligent assistant for the n8n automation platform
 
 ---
 
-## 🛠 My Toolkit  
+## 🛠 My Toolkit
 
-### Programming Languages  
-Python • JavaScript • SQL • Bash
+**Programming Languages**  
+Python • JavaScript • SQL • Bash  
 
-shell
-Copy code
+**Data Scraping & Automation**  
+Scrapy • Playwright • Selenium • BeautifulSoup • asyncio  
 
-### Data Scraping & Automation  
-Scrapy • Playwright • Selenium • BeautifulSoup • asyncio
+**AI & Machine Learning**  
+LangChain • Transformers • Scikit-learn • NLTK • TfidfVectorizer • Google Generative AI  
 
-shell
-Copy code
+**Databases & Caching**  
+PostgreSQL • Redis • Pickle  
 
-### AI & Machine Learning  
-LangChain • Transformers • Scikit-learn • NLTK • TfidfVectorizer • Google Generative AI
-
-shell
-Copy code
-
-### Databases & Caching  
-PostgreSQL • Redis • Pickle
-
-shell
-Copy code
-
-### DevOps & Tools  
-Git • Docker • Linux
-
-yaml
-Copy code
+**DevOps & Tools**  
+Git • Docker • Linux  
 
 ---
 
-## 🎯 Current Focus  
-
+## 🎯 Current Focus
 - **Building:** Next-generation RAG systems for enterprise knowledge management  
 - **Learning:** Advanced LLM fine-tuning and multi-modal AI applications  
 - **Expertise:** Data Automation • RAG Systems • Business Intelligence • Market Analysis  
 
 ---
 
-## 🤝 Let's Collaborate  
+## 🤝 Let's Collaborate
+If you have an idea or a challenge where data and automation can bring about a revolutionary change, let's have a discussion.  
 
-If you have an idea or challenge where **data and automation** can bring a revolutionary change, let’s talk.  
-
-*"Together, we can create an effective solution that takes your business to the next level."*  
-
----
-
-<div align="center">
-
-✨ **Building the future, one automation at a time** ✨  
-
-⭐ If you find my work valuable, please consider giving it a star! ⭐  
-
-</div>
-
-### Here’s how my solutions can help you:  
-
-#### 🔍 **Unlocking Your Data's Power**  
-Do you waste time searching for the right information from your internal knowledge base or documents?  
-I can transform your data into a **high-fidelity RAG (Retrieval-Augmented Generation) system**.  
-As a result, you or your team can find answers to any question in seconds.  
-
-#### 📊 **Automated Market Intelligence**  
-Is monitoring competitors still a manual job for you?  
-My **intelligent web extraction system** automatically tracks competitors’ activities and delivers reports at scheduled times.  
-
-#### 🔗 **Complete Data Pipeline**  
-Do you have large volumes of data but it’s not ready for use?  
-I build a **fully automated pipeline** that collects data from various sources, cleans it with NLP, and prepares it for analysis.  
+*"Together, we can create an effective solution to take your business to the next level."*
 
 ---
 
-## 🌟 Featured Project: n8n Workflow Automation Brain  
+<p align="center">
+  <b>Building the future, one automation at a time</b>  
+  <br>
+  If you find my work valuable, consider giving it a ⭐
+</p>
 
-A complete real-world example of a **RAG (Retrieval-Augmented Generation) pipeline**:  
-
-- **Intelligence Layer:** Collects relevant information from thousands of online documents  
-- **Processing Pipeline:** Cleans data and builds a vectorized knowledge base  
-- **Real-time Response:** Delivers accurate answers to any automation-related query  
-- **Platform:** Built as an intelligent assistant for the **n8n automation platform**  
-
----
-
-## 🛠 My Toolkit  
-
-### Programming Languages  
+<!-- Premium Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=80&section=footer&animation=scaleIn&fontColor=ffffff" alt="footer"/>
+</p>
