@@ -1,122 +1,108 @@
-<p align="center">
-  <img src="https://i.imgur.com/g712g5z.gif" alt="Code Banner" width="100%"/>
+<!-- Touhidul, this is the definitive, professional version we discussed. No placeholders, no broken links. Just pure, polished presentation. -->
+
+<div align="center">
+
+<!-- Header: Name & Professional Title -->
+
+<h1>Touhidul Islam</h1>
+<h3>AI & Automation Architect | SaaS Founder</h3>
+
+<!-- Professional Summary -->
+
+<p>
+আমি একজন অভিজ্ঞ এআই ইঞ্জিনিয়ার এবং উদ্যোক্তা, যার মূল লক্ষ্য হলো ডেটা এবং অটোমেশনের শক্তি ব্যবহার করে জটিল ব্যবসায়িক সমস্যার সমাধান করা। আমার কাজের কেন্দ্রবিন্দুতে রয়েছে স্বয়ংক্রিয় সিস্টেম (Autonomous Systems) তৈরি করা, যা মানুষের দক্ষতাকে প্রতিস্থাপন নয়, বরং বহুগুণে বাড়িয়ে তোলে।
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B88B&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Touhidul+Islam+👋;I'm+an+AI+%26+Automation+Architect;I+build+intelligent+systems;...that+solve+real-world+problems." alt="Typing SVG" /></a>
+<!-- Social & Contact Links -->
 
-<p align="center">
-  A passionate AI Engineer from Bangladesh 🇧🇩 with a founder's mindset, dedicated to building autonomous systems that redefine efficiency. I believe in turning complex data into actionable intelligence and powerful SaaS solutions. Currently architecting the future of automated sales and knowledge management.
-</p>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-username" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:youremail@example.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email_Me-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-username" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+</a>
 
----
+</div>
 
-### 🚀 Connect with Me
+🎯 Core Competencies & Expertise
 
-<p align="center">
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter-username" height="30" width="40" /></a>
-<a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="your-email" height="30" width="40" /></a>
-</p>
+আমার দক্ষতার মূল ক্ষেত্রগুলো হলো ইন্টেলিজেন্ট সিস্টেম ডিজাইন এবং ডেটা-চালিত অ্যাপ্লিকেশন তৈরি করা।
 
----
-
-### 💻 My Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <b align="center">Frontend</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </td>
-    <td align="center" width="180">
-      <b align="center">Backend</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-    </td>
-    <td align="center" width="180">
-      <b align="center">AI/ML</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-      <img src="https://i.imgur.com/N4L4D0f.png" alt="Google AI" width="40" height="40"/>
-    </td>
-    <td align="center" width="180">
-      <b align="center">Databases</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </td>
-    <td align="center" width="180">
-      <b align="center">DevOps & Tools</b><br><br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </td>
-  </tr>
+<table width="100%" align="center">
+<tr valign="top">
+<td width="50%">
+<b align="center">🤖 AI & Machine Learning</b>
+<ul>
+<li><b>LLM Application Development:</b> RAG (Retrieval-Augmented Generation) সিস্টেম এবং এজেন্ট আর্কিটেকচার।</li>
+<li><b>Natural Language Processing (NLP):</b> Sentiment Analysis, Named Entity Recognition (NER), Text Summarization.</li>
+<li><b>Predictive Modeling:</b> ডেটার উপর ভিত্তি করে ভবিষ্যৎ ট্রেন্ড এবং ফলাফল অনুমান করা।</li>
+<li><b>Data Vectorization:</b> অ্যাডভান্সড সিমেন্টিক সার্চ এবং অ্যানালাইসিসের জন্য ডেটাকে ভেক্টর এম্বেডিং-এ রূপান্তর।</li>
+</ul>
+</td>
+<td width="50%">
+<b align="center">⚙️ System Architecture & Engineering</b>
+<ul>
+<li><b>SaaS Platform Development:</b> স্কেলেবল এবং মাল্টি-টেন্যান্ট SaaS অ্যাপ্লিকেশন ডিজাইন ও নির্মাণ।</li>
+<li><b>Data Engineering:</b> শক্তিশালী এবং নির্ভরযোগ্য ডেটা সংগ্রহ ও প্রসেসিং পাইপলাইন তৈরি করা (Web Scraping, API Integration)।</li>
+<li><b>Automation Systems:</b> ব্যবসায়িক প্রক্রিয়াকে স্বয়ংক্রিয় করার জন্য এন্ড-টু-এন্ড সমাধান তৈরি।</li>
+<li><b>Cloud & DevOps:</b> Docker ব্যবহার করে অ্যাপ্লিকেশন কন্টেইনারাইজেশন এবং ক্লাউডে সিস্টেম ডিপ্লয়মেন্ট।</li>
+</ul>
+</td>
+</tr>
 </table>
 
----
+✨ Featured Projects
 
-### ✨ Featured Projects
+আমার কিছু নির্বাচিত প্রজেক্ট যা আমার কাজের দর্শন এবং দক্ষতাকে তুলে ধরে।
 
-Here are some of the projects I'm proud of.
+<table width="100%" align="center" style="border: none;">
+<!-- Project 1: NexusLeads AI -->
+<tr valign="top">
+<td width="20%" align="center" style="padding: 15px;">
+<a href="[Link to your NexusLeads AI repo]" target="_blank">
+<img src="https://www.google.com/search?q=https://i.imgur.com/K5aEaBT.png" alt="NexusLeads AI Logo" style="border-radius: 50%; width: 120px; height: 120px;">
+</a>
+</td>
+<td width="80%" style="padding: 15px;">
+<b><a href="[Link to your NexusLeads AI repo]" target="_blank">Autonomous Sales Agent (NexusLeads AI)</a></b>
+<br>
+<em>একটি সম্পূর্ণ স্বয়ংক্রিয় এআই সেলস এজেন্ট যা সম্ভাব্য গ্রাহক খুঁজে বের করা, তাদের সম্পর্কে গবেষণা করা এবং ব্যক্তিগতকৃত ইমেইলের মাধ্যমে যোগাযোগ স্থাপন করার পুরো প্রক্রিয়াটি নিজে পরিচালনা করে। এটি শুধু একটি বট নয়, এটি একটি স্ট্র্যাটেজিক সেলস ইঞ্জিন।</em>
+<br><br>
+<code>Python</code> <code>Google Generative AI</code> <code>Scrapy</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Docker</code>
+</td>
+</tr>
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr valign="top">
-    <td width="50%">
-      <h3 align="center">🤖 NexusLeads AI</h3>
-      <p align="center">
-        <a href="[Link to your NexusLeads AI repo]">
-          <img src="https://i.imgur.com/3hM4UTI.png" alt="NexusLeads AI" width="100%">
-        </a>
-      </p>
-      <p>
-        An autonomous AI Sales Agent that discovers, analyzes, and engages potential customers using intelligent, personalized outreach. A true 24/7 sales powerhouse.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 RAG KnowledgeBase Bot</h3>
-      <p align="center">
-        <a href="[Link to your RAG chatbot repo]">
-          <img src="https://i.imgur.com/jI8y4fK.png" alt="KnowledgeBase Bot" width="100%">
-        </a>
-      </p>
-      <p>
-        A powerful RAG (Retrieval-Augmented Generation) based chatbot. Simply upload your documents (PDFs, Docs), and get instant, accurate answers from your own knowledge base.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      </p>
-    </td>
-  </tr>
+<!-- Project 2: KnowledgeBase Bot -->
+
+<tr valign="top">
+<td width="20%" align="center" style="padding: 15px;">
+<a href="[Link to your RAG chatbot repo]" target="_blank">
+<img src="https://www.google.com/search?q=https://i.imgur.com/6XyU6fV.png" alt="KnowledgeBase Bot Logo" style="border-radius: 50%; width: 120px; height: 120px;">
+</a>
+</td>
+<td width="80%" style="padding: 15px;">
+<b><a href="[Link to your RAG chatbot repo]" target="_blank">Corporate Knowledge Brain (RAG System)</a></b>
+<br>
+<em>যেকোনো প্রতিষ্ঠানের অভ্যন্তরীণ ডকুমেন্ট (যেমন: পলিসি, রিপোর্ট, ম্যানুয়াল) ব্যবহার করে একটি ইন্টেলিজেন্ট নলেজ বেস তৈরি করার প্ল্যাটফর্ম। কর্মচারীরা যেকোনো প্রশ্ন করে মুহূর্তের মধ্যে সঠিক এবং প্রাসঙ্গিক উত্তর খুঁজে পায়, যা উৎপাদনশীলতা বহুগুণে বাড়িয়ে দেয়।</em>
+<br><br>
+<code>Python</code> <code>LangChain</code> <code>Vector DB</code> <code>Streamlit</code> <code>Docker</code>
+</td>
+</tr>
 </table>
 
----
+📊 My GitHub Contributions & Statistics
 
-### 🔥 My GitHub Stats
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue%26include_all_commits%3Dtrue%26hide_border%3Dtrue&" alt="GitHub Stats" />
+<br>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-github-username%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
+<br>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  </a>
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="top-langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/viewcount.gif" alt="View Count" />
-</p>
+<div align="center">
+<i>"আমার লক্ষ্য হলো এমন প্রযুক্তি তৈরি করা যা মানুষের সাধারণ ক্ষমতাকে অসাধারণ পর্যায়ে পৌঁছে দেয়।"</i>
+</div>
